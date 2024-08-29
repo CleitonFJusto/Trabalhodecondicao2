@@ -16,7 +16,7 @@ public class Atividade3ParOuImpar {
             System.out.println(numero + " é par");
 
         }else {
-            System.out.println("é impar");
+            System.out.println("é impar ");
 
         }
 
